@@ -1,4 +1,7 @@
 ## QR code component challenge by Fronted Mentor
+
+Link: https://nouarah.github.io/
+
 ## Frameworks
 - Vue.js
 - Uikit
